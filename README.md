@@ -15,4 +15,4 @@ Certifique-se de ter um navegador web moderno que suporte HTML5, CSS3 e JavaScri
 ## Como Usar
 
 1. Faça um clone deste repositório ou faça o download do código-fonte.
-2. Abra o arquivo `index.html` em um navegador web.
+2. Abra o arquivo `index.html` em um navegador web. 
